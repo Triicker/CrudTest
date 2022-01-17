@@ -46,3 +46,63 @@ button.accept-policy[b-zt3nbi3sc9] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+.carousel-fade[b-zt3nbi3sc9] {
+    .carousel-inner
+
+{
+    .item
+
+{
+    transition-property: opacity;
+}
+
+.item[b-zt3nbi3sc9],
+.active.left[b-zt3nbi3sc9],
+.active.right[b-zt3nbi3sc9] {
+    opacity: 0;
+}
+
+.active[b-zt3nbi3sc9],
+.next.left[b-zt3nbi3sc9],
+.prev.right[b-zt3nbi3sc9] {
+    opacity: 1;
+}
+
+    .next[b-zt3nbi3sc9],
+    .prev[b-zt3nbi3sc9],
+    .active.left[b-zt3nbi3sc9],
+    .active.right[b-zt3nbi3sc9] {
+        left: 0;
+        transform: translate3d(0, 0, 0);
+    }
+
+}
+
+.carousel-control[b-zt3nbi3sc9] {
+    z-index: 2;
+}
+
+}
+
+
+
+html[b-zt3nbi3sc9],
+body[b-zt3nbi3sc9],
+.carousel[b-zt3nbi3sc9],
+.carousel-inner[b-zt3nbi3sc9],
+.carousel-inner .item[b-zt3nbi3sc9] {
+    height: 100%;
+}
+
+.item:nth-child(1)[b-zt3nbi3sc9] {
+    background: #74C390;
+}
+
+.item:nth-child(2)[b-zt3nbi3sc9] {
+    background: #51BCE8;
+}
+
+.item:nth-child(3)[b-zt3nbi3sc9] {
+    background: #E46653;
+}

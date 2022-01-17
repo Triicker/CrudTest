@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\usuario\Downloads\CRUD-MVC-MYSQL-NET-6-main\WebMvcMysql
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/usuario/Downloads/CRUD-MVC-MYSQL-NET-6-main/WebMvcMysql/Views/Home/Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/usuario/Downloads/CRUD-MVC-MYSQL-NET-6-main/WebMvcMysql/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
