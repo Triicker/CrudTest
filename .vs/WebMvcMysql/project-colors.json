@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4a94738-e4fb-4128-8bcd-7ca8df1dfc08": {
+      "ProjectGuid": "f4a94738-e4fb-4128-8bcd-7ca8df1dfc08",
+      "DisplayName": "WebMvcMysql",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
